@@ -3,7 +3,7 @@ been interested in electronics and science from a very young age and I have part
 MATE ROV competition and FIRST FRC. In my spare time I like to tinker and work on random projects which I hope to document and publish more often then I have been. 
 
 
-# Arduino-Pocket-VU-Meter
+# Arduino Pocket VU Meter
 WS2812 matrix and Arduino Pro-Mini pocket insert
 
 This project is based on Adafruit's VU tie project but is adapted to a LED matrix. Original project design was for the 
